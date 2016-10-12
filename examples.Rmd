@@ -1,0 +1,118 @@
+---
+title: "shinythemes options"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+
+Row
+-----------------------------------------------------------------------
+
+### Flatly (default)
+<img src="images/flatly.png" width="400">
+<br>
+[complete layout](http://bootswatch.com/flatly/)
+
+
+
+### Cerulean
+
+<img src="images/cerulean.png" width="400">
+<br>
+[complete layout](http://bootswatch.com/cerulean/)
+
+### Cyborg
+<img src="images/cyborg.png" width="400">
+<br>
+[complete layout](http://bootswatch.com/cyborg/)
+
+
+
+### Darkly
+
+<img src="images/darkly.png" width="400">
+<br>
+[complete layout](http://bootswatch.com/darkly/)
+
+Row
+-----------------------------------------------------------------------
+
+
+### Journal
+<img src="images/journal.png" width="400">
+<br>
+[complete layout](http://bootswatch.com/journal/)
+
+
+
+### Lumen
+
+<img src="images/lumen.png" width="400">
+<br>
+[complete layout](http://bootswatch.com/lumen/)
+
+### Paper
+<img src="images/paper.png" width="400">
+<br>
+[complete layout](http://bootswatch.com/paper/)
+
+
+
+### Sandstone
+
+<img src="images/sandstone.png" width="400">
+<br>
+[complete layout](http://bootswatch.com/sandstone/)
+
+Row
+-----------------------------------------------------------------------
+
+
+### Simplex
+<img src="images/simplex.png" width="400">
+<br>
+[complete layout](http://bootswatch.com/simplex/)
+
+
+
+### Slate
+
+<img src="images/slate.png" width="400">
+<br>
+[complete layout](http://bootswatch.com/slate/)
+
+### Spacelab
+<img src="images/spacelab.png" width="400">
+<br>
+[complete layout](http://bootswatch.com/spacelab/)
+
+
+
+### Superhero
+
+<img src="images/superhero.png" width="400">
+<br>
+[complete layout](http://bootswatch.com/superhero/)
+
+Row
+-----------------------------------------------------------------------
+
+
+### United
+<img src="images/united.png" width="400">
+<br>
+[complete layout](http://bootswatch.com/united/)
+
+
+
+### Yeti
+
+<img src="images/yeti.png" width="400">
+<br>
+[complete layout](http://bootswatch.com/yeti/)
